@@ -1,5 +1,5 @@
 ## 🎮 How to Access
-<p>View live ：https://easy-bank-js.netlify.app/</p>
+<p>View live ：https://transfer-easy.netlify.app/</p>
 <p>Use the following credentials to access the demo accounts:</p>
 <p><strong>Username: js   &  PIN: 1111</strong></p>
 <p><strong>Username: jd   &  PIN: 2222</strong></p>
